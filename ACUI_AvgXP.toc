@@ -1,0 +1,6 @@
+## Interface: 11100
+## Title: ACUI Average Exp Calculator
+## Author: Jinx (maintained by Arnvid "ievil" Karstad)
+## Notes: Calculates Average Exp Gain - Version 0.501 - being updated by Arnvid for ACUI
+## SavedVariables: jx_avgxp_players,jx_avgxp_globalinit
+ACUI_AvgXP.xml
